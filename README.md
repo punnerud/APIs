@@ -21,7 +21,7 @@ En god blanding av norske API-er
 - Informasjon om bilen ved å slå opp reg.nummer[DL10000] http://www.vegvesen.no/System/mobilapi?registreringsnummer=DL10000
 
 ##Andre API-er
-- Bysykkel Oslo
+- Nye bysykkeler i Oslo 2016 fra ClearChannel
  - Autentisere ved å sende tlf-nummer og motta sms: https://oslobysykkel.no/api/v1/sessions [eksempel på data](bysykkel-autentisering.md)
  - For å motta sesjons-ID som benyttes videre for authentisering, token sendes som del av URL https://oslobysykkel.no/api/v1/sessions/3253b80ba8648e72af32a9df5c4138fd (URL kun som eksempel, må endres)
  - Antall ledige sykler på stativ, ID matches mot eget oppslag https://oslobysykkel.no/api/v1/stations/availability
