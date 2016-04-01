@@ -25,4 +25,4 @@ En god blanding av norske API-er
  - Autentisere ved å sende tlf-nummer og motta sms: https://oslobysykkel.no/api/v1/sessions [eksempel på data](bysykkel-autentisering.md)
  - For å motta sesjons-ID som benyttes videre for authentisering, token sendes som del av URL https://oslobysykkel.no/api/v1/sessions/3253b80ba8648e72af32a9df5c4138fd (URL kun som eksempel, må endres)
  - Antall ledige sykler på stativ, ID matches mot eget oppslag https://oslobysykkel.no/api/v1/stations/availability
- - Navn og posisjon på sykkelstativ: https://oslobysykkel.no/api/v1/stations (autentiserings eksempel på header: Authorization: Token token="82653350c509a33eaeb4e1d1c382b545194f4bc1a7983f1d2f179b993c4ef982") [liste over alle stasjoner 1april2016](bysykkel-stativer1april2016.json)
+ - (A) Navn og posisjon på sykkelstativ: https://oslobysykkel.no/api/v1/stations (autentiserings eksempel på header: Authorization: Token token="82653350c509a33eaeb4e1d1c382b545194f4bc1a7983f1d2f179b993c4ef982") [liste over alle stasjoner 1april2016](bysykkel-stativer1april2016.json)
