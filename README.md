@@ -11,4 +11,4 @@ A = Authentisering
    - Tilbud i butikk: https://service-dk.norgesgruppen.no/api/Data/Promotions/1300?ResultScope=1&channel=app
    - Alle butikker: https://ng-azure-rest-api-prod.azurewebsites.net/api/FindStore/Stores/1300
   - Kiwi
-   - Nærmeste butikk: POST med authentisering og koordinater, [eksempel her](kiwi.txt)
+   - Både nærmeste butikk og alle sammen: POST med authentisering og koordinater, [eksempel her](kiwi.txt)
