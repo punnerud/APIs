@@ -16,9 +16,9 @@ En god blanding av norske API-er
 
 ##Kiosker
 - Narvesen
-   - (A) jobber med authentiseringsguide [(eksempel fra 1.april2016)](navesen-kiosker1april2016.json)
+   - (A) jobber med authentiseringsguide [(alle butikker 1.april2016)](navesen-kiosker1april2016.json)
 - 7eleven
-   - (A) jobber med authentiseringsguide [eksempel fra 1.april)](7eleven-kiosker7april2016.json)
+   - (A) jobber med authentiseringsguide [(alle butikker 2.april)](7eleven-kiosker7april2016.json)
 
 ##Offentlige API-er (som ikke er på Data Norge)
 - Informasjon om bilen ved å slå opp reg.nummer. Eksempel med reg.nr [DL10000](http://www.vegvesen.no/System/mobilapi?registreringsnummer=DL10000)
