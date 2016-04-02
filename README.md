@@ -22,7 +22,6 @@ En god blanding av norske API-er
 
 ##Bensinstasjoner
 - UNO-X, [alle stasjoner i skandinavia](https://erhverv.unox.dk/poi/ds2.csv)
-- 
 
 ##Andre API-er
 - Nye bysykkeler i Oslo 2016 fra ClearChannel
