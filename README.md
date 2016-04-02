@@ -11,6 +11,7 @@ En god blanding av norske API-er
    - (A) [Tilbuder i butikk](https://service-dk.norgesgruppen.no/api/Data/Promotions/1300?ResultScope=1&channel=app)
    - [Alle butikker](https://ng-azure-rest-api-prod.azurewebsites.net/api/FindStore/Stores/1300)
   - Kiwi
+   - [Autentisering som POST](https://ng-azure-rest-api-prod.azurewebsites.net/request/) må [sende med JSON](kiwi-autentisering.md)
    - (A) Både nærmeste butikk og alle sammen: POST med authentisering og koordinater, [eksempel her](kiwi.md)
 
 ##Kiosker
